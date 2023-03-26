@@ -10,7 +10,7 @@ This is an introductory app made by me using flutter.
       <td align="center">Home Page</td>
     </tr>
     <tr>
-      <td><img src="images/ss.jpg" alt="home-page-screenshot"</td>
+      <td><img src="images/ss.jpg" alt="home-page-screenshot" height=500px></td>
     </tr>
   </table>
 </div>
